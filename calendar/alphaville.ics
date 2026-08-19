@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otis Shanty//Shows//EN
+BEGIN:VEVENT
+UID:20260918-alphaville@otisshanty.com
+DTSTAMP:20260819T000000Z
+DTSTART:20260918T230000Z
+SUMMARY:Otis Shanty & Real Burn at Alphaville
+LOCATION:Alphaville\, Brooklyn\, NY
+DESCRIPTION:With Real Burn. Doors 7 PM.
+URL:https://dice.fm/event/v3xo67-otis-shanty-real-burn-18th-sep-alphaville-new-york-tickets?lng=en-US
+END:VEVENT
+END:VCALENDAR

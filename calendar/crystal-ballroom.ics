@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otis Shanty//Shows//EN
+BEGIN:VEVENT
+UID:20260917-crystal-ballroom@otisshanty.com
+DTSTAMP:20260819T000000Z
+DTSTART:20260917T230000Z
+SUMMARY:Otis Shanty at Crystal Ballroom
+LOCATION:Crystal Ballroom\, Somerville\, MA
+DESCRIPTION:With Jonny Tex\, Clifford & Dry Eyes. Doors 7 PM.
+URL:https://www.ticketmaster.com/otis-shanty-somerville-massachusetts-09-17-2026/event/01006504EF1653F0
+END:VEVENT
+END:VCALENDAR
