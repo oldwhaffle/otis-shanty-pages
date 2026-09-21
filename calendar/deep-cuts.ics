@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otis Shanty//Shows//EN
+BEGIN:VEVENT
+UID:otis-shanty-deep-cuts-20261028@otisshanty
+DTSTAMP:20260921T212000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Small Pond / Otis Shanty / Bus Crush
+LOCATION:Deep Cuts\, Medford\, MA
+DESCRIPTION:Small Pond / Otis Shanty / Bus Crush at Deep Cuts. See ticket 
+ link for show times.
+URL:https://dice.fm/event/92n2b6-small-pond-otis-shanty-bus-crush-28th-oct
+ -deep-cuts-medford-tickets
+END:VEVENT
+END:VCALENDAR
